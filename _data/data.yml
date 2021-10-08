@@ -103,7 +103,7 @@ experiences:
       company: Nika Entertaiment
       details: |
         - Functional, Regression, Black-box, Localization, Cross-platform testing
-        - Creating of test documentation (Mind Maps, Checklists and Test Cases)
+        - Creating of test documentation (Mind Maps, Checklists, Test Cases)
         - Interacting with remote team
         - Participating on daily meetings/discussions
         - Interacting with remote team
@@ -120,10 +120,6 @@ experiences:
         - Fixes verification
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Invicro
         link: "#hook"
@@ -135,7 +131,7 @@ projects:
 
       - title: PlayWell
         link: "#"
-        tagline: "Entertainment/Education Web platform for hospitals"
+        tagline: "Entertainment/Educational Web platform for hospitals"
 
 skills:
     title: Skills &amp; Proficiency
