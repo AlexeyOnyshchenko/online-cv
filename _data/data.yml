@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: al.phobos90@gmail.com
     phone: 063 887 3373
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: alexeyonyshchenko
     xing: 
     github: AlexeyOnyshchenko
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: Ukrainian 
@@ -34,7 +34,7 @@ sidebar:
       - idiom: Russian
         level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Upper-Intermediate
 
     interests:
@@ -50,16 +50,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - 8 + years of experience in Quality Assurance
+      - Team leadership experience
+      - Proficient at building QA processes from scratch
+      - Experience in different areas of manual testing (Mobile, Web and Desktop) and requirement analysis
+      - Skilled in Test Design
+      - Self-motivated, fast learning
+      - ISTQB Foundation level certified
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master degree in Automated electromechanical systems
+      university: NTU "Kharkiv Polytechnic Institute"
+      time: 2007 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,17 +69,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
