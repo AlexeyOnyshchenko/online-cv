@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Alexey Onyshchenko
     tagline: QA Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: alexey.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: al.phobos90@gmail.com
