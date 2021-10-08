@@ -38,13 +38,13 @@ sidebar:
         level: Upper-Intermediate
 
     interests:
-      - item: Climbing
+      - item: Football
         link:
 
-      - item: Snowboarding
+      - item: Travelling
         link:
 
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
@@ -53,7 +53,7 @@ career-profile:
       - 8 + years of experience in Quality Assurance
       - Team leadership experience
       - Proficient at building QA processes from scratch
-      - Experience in different areas of manual testing (Mobile, Web and Desktop) and requirement analysis
+      - Experience in different areas of manual testing (Mobile, Web, Desktop) and requirements analysis
       - Skilled in Test Design
       - Self-motivated, fast learning
       - ISTQB Foundation level certified
@@ -71,9 +71,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior QA Enginner
+      time: 2016 - Present
+      company: Waverley Software
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,28 +86,38 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: QA Engineer
+      time: 2015 - 2016
+      company: CHI Software
+      details: |
+        - Functional, Performance, Regression, Acceptance, Cross-platform, Smoke testing
+        - Managing and leading mobile QA team
+        - Creating of test documentation (Mind maps, Checklists, Test Cases)
+        - Issue tracking in a designated issue tracking system
+        - Interacting with remote team
+        - Taking part in estimations
+        - Taking part in establishing and developing of the processes inside QA team
+        - Conducting internal trainings for QA team
+    - role: QA Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: Nika Entertaiment
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        - Functional, Regression, Black-box, Localization, Cross-platform testing
+        - Creating of test documentation (Mind Maps, Checklists and Test Cases)
+        - Interacting with remote team
+        - Participating on daily meetings/discussions
+        - Interacting with remote team
+        - Taking part in estimations
+        - Taking part in establishing and developing of the processes inside QA team
+    - role: Test Engineer
       time: 2012 - 2014
-      company: Amazon, London
+      company: KREL Group LLC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Functional, Regression, Black-box, GUI testing
+        - Working with specifications and service requests
+        - Dealing with release checklists
+        - Creation of technical documentation
+        - Fixes verification
 projects:
     title: Projects
     intro: >
@@ -115,47 +125,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Invicro
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Products are a web-based data management system and a powerful imaging processing software (desktop), supporting research analytics across multiple phases and modalities in the drug discovery and development process."
 
-      - title: DevStudio
+      - title: MUSE
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Health care study system that is comprised of a web application, mobile applications (iOS/Android) and supporting databases and back-end servers. The purpose of the system is to gather high-quality glucose, meal, insulin, activity, and other data to support the observational study."
 
-      - title: Tempo
+      - title: PlayWell
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Entertainment/Education Web platform for hospitals"
 
 skills:
     title: Skills &amp; Proficiency
