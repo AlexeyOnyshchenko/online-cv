@@ -71,21 +71,18 @@ education:
           - Bullet point
 
 experiences:
-    - role: Senior QA Enginner
+    - role: Senior QA Engineer
       time: 2016 - Present
       company: Waverley Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Functional, GUI, API, Compatibility, Regression, Smoke testing
+        - Managing of the QA team
+        - Estimation of test activities
+        - Creation and support of test documentation (Test Cases, Traceability matrix, Checklists)
+        - Interacting with remote teams
+        - Taking part in estimations
+        - PM/Scrum master substitution
+        - Requirements analysis
     - role: QA Engineer
       time: 2015 - 2016
       company: CHI Software
@@ -93,8 +90,8 @@ experiences:
         - Functional, Performance, Regression, Acceptance, Cross-platform, Smoke testing
         - Managing and leading mobile QA team
         - Creating of test documentation (Mind maps, Checklists, Test Cases)
-        - Issue tracking in a designated issue tracking system
-        - Interacting with remote team
+        - Issues tracking
+        - Interacting with a remote team
         - Taking part in estimations
         - Taking part in establishing and developing of the processes inside QA team
         - Conducting internal trainings for QA team
@@ -104,9 +101,8 @@ experiences:
       details: |
         - Functional, Regression, Black-box, Localization, Cross-platform testing
         - Creating of test documentation (Mind Maps, Checklists, Test Cases)
-        - Interacting with remote team
         - Participating on daily meetings/discussions
-        - Interacting with remote team
+        - Interacting with a remote team
         - Taking part in estimations
         - Taking part in establishing and developing of the processes inside QA team
     - role: Test Engineer
@@ -137,23 +133,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Manual Testing
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: API Testing
         level: 98%
 
-      - name: Angular
+      - name: Requirements Analysis
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Test Design
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Test Analysis
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
